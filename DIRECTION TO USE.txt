@@ -1,0 +1,28 @@
+WEBSITE OFFLINE DOWNLOADER
+
+A Java Crawler or Program using Jsoup Library and core java for taking Clean Backup of all the Hacked & Corrupted WordPress & Html Websites. Crawler Download all the Image, JS and Css files to the offline directory and work as a Offline Website.
+
+Supported OS : Windows/Linux/Unix
+
+Directions to Use :
+
+1. Import the Downloader.jar  Class File in your Eclipse/Netbeans IDE.
+2. Import JSoup Library file jsoup-1.10.3.jar to External Build Path of Project and Apply.
+3. Create a Text File Named listurl.txt on desktop containing all websites full url. 
+    
+   For Example : https://www.thewaltdisneycompany.com/
+                 https://chicago.suntimes.com/
+				 https://www.katyperry.com/
+				 (As Many You want to.....)
+				 
+4. Start the Execution				 
+				 
+5. All the Downloaded Files will be stored in directory as follows :
+
+    Windows : E:/Websitename(Folder)
+    Linux/Unix : /runablejar/websitename(Folder)
+
+6. All Websites Files Will be Successfully Downloaded to the Directories.
+
+
+                    THANKS!!	
